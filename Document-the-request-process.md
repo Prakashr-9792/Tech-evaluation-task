@@ -3,6 +3,7 @@ In the Dashboard tab, tap **New Housing Request**. The **Request Housing Service
 ![New Housing Request](/1-New-Housing-Request.jpg)
 
 The following screenshot illustrates the Request Housing Service form.
+![Housing Request Form](/2-Housing-Request-Form.jpg)
 
 In the Request Housing Service form,
 1.	In the **Email Address** field, enter your email address.
@@ -15,6 +16,7 @@ In the Request Housing Service form,
 8.	Tap **Submit**. The Eligible Services form appears.
 
 > Note: Tap the Close icon to close the Eligible Services form and modify the details if needed.
+![Eligible Services](/3-Eligible-Services.jpg)
 
 The following screenshot illustrates the **Eligible Services** form.
 
@@ -23,6 +25,7 @@ In the Eligible Services form,
 2.	Tap **terms and conditions** to read the terms and conditions.
 3.	Select the **I have read and accept the terms and conditions** check box.
 4.	Tap **Apply**. A message will be prompted. The following screenshot illustrates the message that appears when tap **Apply**.
+![Ticket Generated](/4-Ticket-Generated.jpg)
 5.	Tap **OK**.
 
 # Modify or Delete Housing Request
@@ -30,5 +33,7 @@ In the Eligible Services form,
 To modify or delete the housing request,
 
 1.	In the Dashboard tab, go to **Housing Requests**.
+![Housing Requests](/5-Housing-Requests.jpg)
 2.	Flick left or right to go to the required service.
 3.	Tap **Modify** to modify the request, or tap **Delete** to delete the request.
+![Modify and Delete](/6-Modify-Delete.jpg)
