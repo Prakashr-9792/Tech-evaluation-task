@@ -1,6 +1,6 @@
 # Create Housing Request
 In the Dashboard tab, tap **New Housing Request**. The **Request Housing Service** form appears.
-![New Housing Request](/1-New-Housing-Request.JPG)
+![New Housing Request](/1-New-Housing-Request.jpg)
 
 The following screenshot illustrates the Request Housing Service form.
 
