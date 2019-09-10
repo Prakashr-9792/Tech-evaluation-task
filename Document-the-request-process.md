@@ -18,8 +18,6 @@ In the Request Housing Service form,
 > Note: Tap the Close icon to close the Eligible Services form and modify the details if needed.
 ![Eligible Services](/3-Eligible-Services.jpg)
 
-The following screenshot illustrates the **Eligible Services** form.
-
 In the Eligible Services form,
 1.	Select a service type that you need. Scroll down to see more services.
 2.	Tap **terms and conditions** to read the terms and conditions.
