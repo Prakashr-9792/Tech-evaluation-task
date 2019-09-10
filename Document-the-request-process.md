@@ -3,7 +3,7 @@ In the Dashboard tab, tap **New Housing Request**. The **Request Housing Service
 ![New Housing Request](/Images/1-New-Housing-Request.png)
 
 The following screenshot illustrates the Request Housing Service form.
-![Housing Request Form](/Images/2-Housing-Request-Form.png =100x100)
+![Housing Request Form](/Images/2-Housing-Request-Form.png)
 
 In the Request Housing Service form,
 1.	In the **Email Address** field, enter your email address.
